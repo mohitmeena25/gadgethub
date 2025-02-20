@@ -11,7 +11,7 @@ package in.gadgethub.utility;
  */
 public class AppInfo {
   public static final String appName="GadgetHub";
-  public static final String appEmail="mm6579327@gmail.com";
-  public static final String appPassword="hnrn zjid axvk eove";
+  public static final String appEmail="//your email";
+  public static final String appPassword="your app password";
   
 }

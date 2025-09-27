@@ -1,35 +1,29 @@
-"GadgetHub" is a fully-functional e-commerce web application designed to provide a seamless online shopping experience for electronic gadgets and accessories. Built using Advanced Java technologies, GadgetHub demonstrates key concepts in Java web development including Servlets, JSP, JDBC, and MVC architecture.
+# GadgetHub 🛒
 
-Key Features:
+**GadgetHub** is a fully-functional e-commerce web application built with Advanced Java technologies. It offers a seamless online shopping experience for electronic gadgets and accessories, showcasing enterprise-grade development practices using Servlets, JSP, JDBC, and the MVC architecture.
 
-User Authentication: Secure login and registration system with role-based access (Admin and User).
+---
 
-Product Management: Admin panel to add, update, or remove products, categories, and stock.
+## 📌 Project Highlights
 
-Shopping Cart: Dynamic cart functionality allowing users to add, update, and remove items.
+- 🔐 **User Authentication**: Secure login and registration with role-based access (Admin/User)
+- 🛍️ **Product Management**: Admin dashboard to manage products, categories, and inventory
+- 🛒 **Shopping Cart**: Add, update, and remove items dynamically
+- 📦 **Order Processing**: Place orders, view history, and track delivery status
+- 📧 **Email Notifications**: Automated order confirmations and updates via email
+- 🔎 **Search & Filter**: Advanced product search and filtering for better UX
+- 📱 **Responsive UI**: Clean, mobile-friendly interface using Bootstrap
 
-Order Processing: Users can place orders, view order history, and track delivery status.
+---
 
-Mail feature: For sending order confirmations and notifications to users via email.
+## 🧰 Technology Stack
 
-Database Integration: Oracle used for storing user details, product catalog, and transaction data via JDBC.
+| Layer        | Technology               |
+|--------------|---------------------------|
+| Backend      | Java (Servlets, JSP)       |
+| Frontend     | HTML, CSS, JavaScript, Bootstrap |
+| Database     | Oracle                     |
+| Architecture | MVC (Model-View-Controller)|
+| Server       | Apache Tomcat              |
 
-Search & Filter: Advanced product search and filter options for a better user experience.
-
-Responsive UI: Frontend developed using HTML, CSS, and Bootstrap for a clean and intuitive interface.
-
-Technology Stack:
-
-Backend: Java (Servlets, JSP)
-
-Frontend: HTML, CSS, JavaScript, Bootstrap
-
-Database: Oracle
-
-Architecture: MVC (Model-View-Controller)
-
-Server: Apache Tomcat
-
-Purpose:
-
-The aim of GadgetHub is to demonstrate how Java can be effectively used to create scalable, secure, and interactive web applications. It serves as a practical project for learning enterprise-level web development using Advanced Java.
+---

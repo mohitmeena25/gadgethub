@@ -9,7 +9,7 @@ A robust, full-featured e-commerce platform for electronic gadgets. This project
 * *Architecture:* Built using the *Model-View-Controller (MVC)* design pattern for clear separation of concerns.
 * *User Management:* Implemented secure *User Authentication* (Admin/User roles) and Registration.
 * *Inventory Control:* Features a comprehensive *Admin Panel* for managing products, categories, and inventory.
-* *Core E-commerce:* Includes a dynamic *Shopping Cart, complete **Order System* (tracking, history), and *Email Notifications* for order confirmations.
+* *Core E-commerce:* Includes a dynamic *Shopping Cart*, complete *Order System* (tracking, history), and *Email Notifications* for order confirmations.
 
 ---
 
@@ -17,7 +17,7 @@ A robust, full-featured e-commerce platform for electronic gadgets. This project
 
 ### Backend
 
-* *Core Technologies:* *Servlets, **JSP* (JavaServer Pages)
+* *Core Technologies:* *Servlets*, *JSP* (JavaServer Pages)
 * *Database Integration:* *JDBC* (Java Database Connectivity)
 * *Language:* Java
 * *Server:* Apache Tomcat (Typical deployment environment)
@@ -47,12 +47,12 @@ Follow these steps to set up and run the GadgetHub application locally.
 
 1.  Clone the repository:
     bash
-    git clone [https://github.com/mohitmeena252/gadgethub.git](https://github.com/mohitmeena252/gadgethub.git)
+    git clone [https://github.com/mohitmeena252/gadgethub.git](https://github.com/mohitmeena252/gadgethub.git
     cd gadgethub
     
-2.  *Database Configuration:* Update the *JDBC connection string* within the project's configuration files to match your local Oracle setup.
-3.  *Deployment:* Build the project or export it as a **.war file** from your IDE and deploy it to your running *Apache Tomcat* server.
-4.  Access the application in your browser (e.g., http://localhost:8080/Gadgethub).
+3.  *Database Configuration:* Update the *JDBC connection string* within the project's configuration files to match your local Oracle setup.
+4.  *Deployment:* Build the project or export it as a **.war file** from your IDE and deploy it to your running *Apache Tomcat* server.
+5.  Access the application in your browser (e.g., http://localhost:8080/Gadgethub).
 
 ---
 

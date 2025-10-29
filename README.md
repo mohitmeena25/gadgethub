@@ -43,16 +43,16 @@ Follow these steps to set up and run the GadgetHub application locally.
 * Apache Tomcat Server
 * Oracle Database instance (running)
 
-### 1. Application Deployment
+### Application Deployment
 
-1.  Clone the repository:
-    bash
-    git clone [https://github.com/mohitmeena252/gadgethub.git](https://github.com/mohitmeena252/gadgethub.git
-    cd gadgethub
+1.   Clone the repository:
+     bash
+     git clone [https://github.com/mohitmeena252/gadgethub.git](https://github.com/mohitmeena252/gadgethub.git
+     cd gadgethub
     
-3.  *Database Configuration:* Update the *JDBC connection string* within the project's configuration files to match your local Oracle setup.
-4.  *Deployment:* Build the project or export it as a **.war file** from your IDE and deploy it to your running *Apache Tomcat* server.
-5.  Access the application in your browser (e.g., http://localhost:8080/Gadgethub).
+2.  *Database Configuration:* Update the *JDBC connection string* within the project's configuration files to match your local Oracle setup.
+3.  *Deployment:* Build the project or export it as a **.war file** from your IDE and deploy it to your running *Apache Tomcat* server.
+4.  Access the application in your browser (e.g., http://localhost:8080/Gadgethub).
 
 ---
 

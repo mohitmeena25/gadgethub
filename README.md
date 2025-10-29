@@ -47,7 +47,7 @@ Follow these steps to set up and run the GadgetHub application locally.
 
 1.   Clone the repository:
      bash
-     git clone [https://github.com/mohitmeena252/gadgethub.git](https://github.com/mohitmeena252/gadgethub.git
+     git clone [https://github.com/mohitmeena252/gadgethub.git](https://github.com/mohitmeena252/gadgethub.git)
      cd gadgethub
     
 2.  *Database Configuration:* Update the *JDBC connection string* within the project's configuration files to match your local Oracle setup.
